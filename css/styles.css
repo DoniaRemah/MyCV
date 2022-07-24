@@ -1,0 +1,233 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+    color:#303030;
+      line-height: 2;
+}
+
+h1
+{
+  font-family: 'Dancing Script', cursive;
+  color: #082145;
+  line-height: 2;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-size: 3rem;
+}
+
+h3{
+font-family: 'Merriweather', serif;
+font-size: 1.3rem;
+}
+
+i{
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+hr{
+border:dotted black 8px;
+border-bottom: 0;
+border-right: 0;
+border-left: 0;
+
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #CA4E79;
+}
+
+footer{
+right: 0;
+bottom:0;
+left:0;
+margin-top:50px;
+text-align: center;
+background-color: #608595;
+padding: 10px;
+}
+/* class selectors */
+
+
+#Title_page{
+  background-color: #DFF6FF;
+  position: relative;
+}
+/* Navigation Bar */
+.btn-nav{
+  position: absolute;
+  left:0;
+}
+
+.navbar{
+  padding: 3.5rem;
+  padding-left: 0;
+  font-size: 1.1rem;
+}
+
+.nav-link{
+  color:#3f6774;
+}
+.nav-link:hover{
+color: #CA4E79;
+}
+/* Greeting */
+
+.h1_greet{
+  padding-top: 2rem;
+  margin: 0;
+  padding-bottom: 0;
+  display: inline-block;
+  margin-top: 0;
+  font-size: 3.5rem;
+}
+.p_greet{
+  color: #04052a;
+}
+
+
+.wave_img{
+  position: relative;
+  bottom: 2rem;
+}
+
+/* INTRODUCTION */
+.intro{
+  padding-top: 4rem;
+}
+
+.my_img{
+max-width: 45vh;
+}
+
+.intro_h2{
+  padding-top: 2rem;
+  padding-bottom: 1.5rem;
+  color:#1e8fdb;
+}
+.intro_mssg{
+  max-width: 40%;
+  margin: 0 auto;
+}
+
+
+
+/* Education */
+
+.Education{
+  padding-top: 5%;
+}
+.comp_img{
+  max-width: 30vh;
+}
+.uni-h3{
+padding-top: 1rem;
+padding-bottom: 1rem;
+ color:#3c81c8;
+}
+.uni-h5{
+font-size: 1.1rem;
+font-family: 'Source Sans Pro', sans-serif;
+padding-bottom: 1rem;
+color:#214974;
+font-style: italic;
+}
+
+.uni-h6{
+  font-weight: 600;
+}
+
+/* TECHNICAL SKILLS */
+
+#TechSkills{
+  padding-top:6%;
+  padding-bottom: 12%;
+  margin-top: 7%;
+  background-color: #DFF6FF;
+}
+
+.col-xs-6{
+  padding: 0;
+}
+
+
+.tech-img{
+  margin-top: 10%;
+  /* margin-bottom: 5.5%; */
+  max-width: 112px;
+  max-height:128px;
+}
+
+.tech_h5{
+  margin-top: 14.5px;
+}
+
+/* SOFT SKILLS */
+
+.softcoln{
+  margin-top: 3%;
+  padding-left: 5%;
+    padding-right: 5%;
+}
+
+.course_div{
+  max-width: 60%;
+}
+/* COURSES */
+.course_img{
+   margin-top:7%;
+   max-width: 200px;
+   max-height:200px;
+}
+
+.h3_hover{
+  padding-top: 5%;
+  color:#214974;
+}
+.h3_hover:hover{
+  color: #CA4E79;
+}
+
+#Courses{
+    background-color: #DFF6FF;
+}
+
+#Hobbies{
+  background-color: #DFF6FF;
+  padding-bottom: 5%
+}
+
+.btn{
+border-radius: 60%;
+}
+
+.f_a{
+  color:white;
+}
+.f_a:hover{
+  color: #f3d6e0
+}
+
+.btn:hover{
+  background-color:  #3f6774;
+}
+
+.swim_img{
+  max-width: 100%;
+  top:12%;
+}
+
+.hob_h5{
+  font-size: 1.1rem;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding-bottom: 1rem;
+  color:#214974;
+}
+
+.footer{
+  text-align: center;
+  padding-top: 1%;
+}
