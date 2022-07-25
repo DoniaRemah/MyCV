@@ -80,6 +80,9 @@ padding: 10px;
   font-size: 1.1rem;
 }
 
+.carousel-item{
+  padding:4%;
+}
 .nav-link{
   color:#3f6774;
 }
