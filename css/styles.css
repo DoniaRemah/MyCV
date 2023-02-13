@@ -239,6 +239,12 @@ border-radius: 60%;
   margin-bottom: 3%;
 }
 
+.proj_worldCup_img{
+  max-width: 2000px;
+  max-height:200px;
+  margin-bottom: 3%;
+}
+
 .swim_img{
   max-width: 100%;
   top:12%;
@@ -257,6 +263,14 @@ border-radius: 60%;
     padding-left: 4%;
     margin-left: 2%;
     text-align: center;
+}
+
+.Proj_worldCup{
+  color:#9d1534;
+  font-weight: bold;
+  padding-left: 4%;
+  margin-left: 2%;
+  text-align: center;
 }
 
 .Projdesc_div{
