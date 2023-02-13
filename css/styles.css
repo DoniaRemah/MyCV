@@ -175,6 +175,13 @@ font-style: italic;
   max-height:128px;
 }
 
+.opengl-img{
+  margin-top: 10%;
+  /* margin-bottom: 5.5%; */
+  max-width: 265px;
+  max-height:128px;
+}
+
 .tech_h5{
   margin-top: 14.5px;
 }
